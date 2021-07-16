@@ -1,0 +1,22 @@
+{
+  "name": "api_users",
+  "version": "1.0.0",
+  "description": "prueba de primera API creada con express para consultar usuarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DnayarP/API_users.git"
+  },
+  "author": "Diego Nayar <diego.nayar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DnayarP/API_users/issues"
+  },
+  "homepage": "https://github.com/DnayarP/API_users#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
